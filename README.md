@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://img.shields.io/static/v1?label=%E2%96%B6%20CODE%20RELEASE&message=IN%20PROGRESS&color=0b1f3a&labelColor=f97316&style=for-the-badge" alt="code release in progress">
+<img src="https://img.shields.io/static/v1?label=code%20release&message=in%20progress&color=0b1f3a&labelColor=f97316&style=flat-square" alt="code release in progress">
 
 </div>
 
