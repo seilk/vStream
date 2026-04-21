@@ -8,12 +8,11 @@
 
 ¹Yonsei University  ²Amazon
 
-[![Paper](https://img.shields.io/badge/arXiv-2604.16587-b31b1b.svg)](https://arxiv.org/abs/2604.16587)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://seilk.github.io/vstream/)
-[![Code](https://img.shields.io/badge/Code-Dropping%20Soon-orange)](#status)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**[ Paper ↗ ](https://arxiv.org/abs/2604.16587)** &nbsp;·&nbsp; **[ Project Page ↗ ](https://seilk.github.io/vstream/)** &nbsp;·&nbsp; **[ BibTeX ](#citation)** &nbsp;·&nbsp; [ MIT License ](LICENSE)
 
-> **🚧 Heads up — the reference implementation is being prepared for release.** ⭐ this repo or hit *Watch* to get a ping the moment training, inference, and pretrained estimators go public.
+<br>
+
+<img src="https://img.shields.io/static/v1?label=%E2%96%B6%20CODE%20RELEASE&message=IN%20PROGRESS&color=0b1f3a&labelColor=f97316&style=for-the-badge" alt="code release in progress">
 
 </div>
 
@@ -61,22 +60,18 @@ The reference implementation is being packaged for public release and will land 
 - `checkpoints/` — pretrained estimators for supported backbones
 - `examples/` — notebooks reproducing figures from the paper
 
-Supported backbones (at release):
-
-- Qwen-family thinking VLMs
-- GLM
-- MiMo
-- Cosmos-Reason
-
 ## Citation
 
 If vSTREAM is useful in your research, please cite:
 
 ```bibtex
 @misc{kang2026vstream,
-  title  = {Real-Time Visual Attribution Streaming in Thinking Models},
-  author = {Kang, Seil and Han, Woojung and Kim, Junhyeok and Kim, Jinyeong and Kim, Youngeun and Hwang, Seong Jae},
-  year   = {2026}
+  title         = {Real-Time Visual Attribution Streaming in Thinking Models},
+  author        = {Kang, Seil and Han, Woojung and Kim, Junhyeok and Kim, Jinyeong and Kim, Youngeun and Hwang, Seong Jae},
+  year          = {2026},
+  eprint        = {2604.16587},
+  archivePrefix = {arXiv},
+  doi           = {10.48550/arXiv.2604.16587}
 }
 ```
 
