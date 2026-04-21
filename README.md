@@ -8,11 +8,11 @@
 
 ¹Yonsei University  ²Amazon
 
-<a href="https://arxiv.org/abs/2604.16587"><img src="https://img.shields.io/badge/paper-arXiv%202604.16587-0b1f3a?style=flat-square&logo=arxiv&logoColor=white" alt="paper"></a>
-<a href="https://seilk.github.io/vstream/"><img src="https://img.shields.io/badge/project-seilk.github.io%2Fvstream-1e3a8a?style=flat-square" alt="project page"></a>
-<a href="#citation"><img src="https://img.shields.io/badge/bibtex-cite-334155?style=flat-square" alt="bibtex"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-64748b?style=flat-square" alt="license"></a>
-<img src="https://img.shields.io/badge/code-in%20progress-f97316?style=flat-square" alt="code release in progress">
+<a href="https://arxiv.org/abs/2604.16587"><img src="https://img.shields.io/badge/paper-arXiv%202604.16587-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="paper"></a>
+<a href="https://seilk.github.io/vstream/"><img src="https://img.shields.io/badge/project-seilk.github.io%2Fvstream-3b82f6?style=flat-square" alt="project page"></a>
+<a href="#citation"><img src="https://img.shields.io/badge/bibtex-cite-8b5cf6?style=flat-square" alt="bibtex"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-10b981?style=flat-square" alt="license"></a>
+<img src="https://img.shields.io/badge/code-in%20progress-f59e0b?style=flat-square" alt="code release in progress">
 
 </div>
 
